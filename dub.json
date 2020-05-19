@@ -1,0 +1,10 @@
+{
+	"name": "nullable-mofile",
+	"authors": [
+		"Victor Porton"
+	],
+	"dependencies": {
+		"mofile": "~>0.2.1",
+	},
+	"license": "AGPLv3"
+}
