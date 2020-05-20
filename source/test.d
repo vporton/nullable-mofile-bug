@@ -1,4 +1,7 @@
 import std.typecons;
-import mofile;
+
+struct MoFile {
+    immutable(void)[] data;
+}
 
 Nullable!MoFile mo;
